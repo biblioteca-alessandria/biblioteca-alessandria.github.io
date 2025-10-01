@@ -10,7 +10,7 @@
         "title": "Algebra B",
         "teacher": "Willem A. De Graaf",
         "link": "https://github.com/biblioteca-alessandria/Algebra-B",
-        "year": 1,
+        "year": 2,
         "tags": ["Algebra"]
     },
     {
@@ -43,10 +43,10 @@
     },
     {
         "title": "Calcolatori",
-        "teacher": "",
+        "teacher": "Giovanni Iacca",
         "link": "https://github.com/biblioteca-alessandria/Calcolatori",
         "year": 3,
-        "tags": ["Giovanni Iacca"]
+        "tags": ["Informatica"]
     },
     {
         "title": "Calcolo delle Probabilità e Statistica Matematica",
@@ -75,5 +75,68 @@
         "link": "https://github.com/biblioteca-alessandria/Database",
         "year": 3,
         "tags": ["Informatica"]
+    },
+    {
+        "title": "Equazioni Differenziali Ordinarie",
+        "teacher": "Marco Sabatini, Andrea Pugliese, Cinzia Soresina",
+        "link": "https://github.com/biblioteca-alessandria/Equazioni-Differenziali-Ordinarie",
+        "year": 3,
+        "tags": ["Analisi"]
+    },
+    {
+        "title": "Fisica Generale I",
+        "teacher": "Rita Dolesi",
+        "link": "https://github.com/biblioteca-alessandria/Fisica-Generale-1",
+        "year": 1,
+        "tags": ["Fisica"]
+    },
+    {
+        "title": "Fisica Generale II",
+        "teacher": "??",
+        "link": "https://github.com/biblioteca-alessandria/Fisica-Generale-2",
+        "year": 3,
+        "tags": ["Fisica"]
+    },
+    {
+        "title": "Fisica Generale III",
+        "teacher": "??",
+        "link": "https://github.com/biblioteca-alessandria/Fisica-Generale-3",
+        "year": 3,
+        "tags": ["Fisica"]
+    },
+    {
+        "title": "Fisica 2 — Ingegneri",
+        "teacher": "Alberto Quaranta",
+        "link": "https://github.com/biblioteca-alessandria/Fisica-2-ingegneri",
+        "year": 3,
+        "tags": ["Fisica"]
+    },
+    {
+        "title": "Fisiologia della Cellula e dell'Organismo",
+        "teacher": "??",
+        "link": "https://github.com/biblioteca-alessandria/Fisiologia-Cellula",
+        "year": 3,
+        "tags": ["Biologia"]
+    },
+    {
+        "title": "Fondamenti di Fisica Matematica",
+        "teacher": "Valter Moretti, Enrico Pagani, Nicolò Drago",
+        "link": "https://github.com/biblioteca-alessandria/",
+        "year": 2,
+        "tags": ["Fisica", "Analisi"]
+    },
+    {
+        "title": "Fondamenti Logici della Matematica",
+        "teacher": "Stefano Baratella",
+        "link": "https://github.com/biblioteca-alessandria/Fondamenti-Logici-della-Matematica",
+        "year": 3,
+        "tags": ["Logica"]
+    },
+    {
+        "title": "Geologia",
+        "teacher": "??",
+        "link": "https://github.com/biblioteca-alessandria/Geologia",
+        "year": 3,
+        "tags": ["Geologia"]
     }
 ]
