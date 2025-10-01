@@ -1,133 +1,79 @@
 [ 
     {
-        "title": "Geometria A - mod 1",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "29/11/22",
-        "text": "Appunti del corso di Geometria A - mod 1 tenuto dal prof. L.E. Sola Conde",
-        "link": "https://davideborra.notion.site/Geometria-A-f587dd8f407f40cf8c3097028891a791",
-        "free": "true",
-        "local": "false",
-        "year": 1,
-        "tags": ["Geometry",  "Free"]
-    },
-    {
-        "title": "Analisi Mat. A - mod 1",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "9/12/22",
-        "text": "Trascrizioni delle esercitazioni di Analisi tenute da S. Vercellesi",
-        "link": "https://github.com/davideborra/esercitazione-analisi-A-2022-23",
-        "free": "true",
-        "local": "false",
-        "year": 1,
-        "tags": ["Analysis",  "Free"]
-    },
-    {
-        "title": "Fisica gen. 1 - mod 1",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "17/01/23",
-        "text": "Note prodotte in preparazione all'esame basate sul materiale fornito dalla prof.ssa Dolesi.",
-        "link": "src/Fisica-Generale-1-mod-1.pdf",
-        "free": "true",
-        "local": "true",
-        "year": 1,
-        "tags": ["Physics",  "Free"]
-    },
-    {
-        "title": "Geometria A - mod 2",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "04/04/23",
-        "text": "Appunti del corso di Geometria A - mod 1 tenuto dal prof. M. Andreatta.",
-        "link": "src/Geometria-A-mod-2.pdf",
-        "free": "true",
-        "local": "true",
-        "year": 1,
-        "tags": ["Geometry",  "Free"]
-    },{
-        "title": "Algebra A - Provetta",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "06/06/23",
-        "text": "Esercizi del corso di Algebra A in preparazione alla seconda prova intermedia. Le soluzioni sono disponibili su richiesta.",
-        "link": "src/algebra-a-provetta.pdf",
-        "free": "true",
-        "local": "true",
-        "year": 1,
-        "tags": ["Algebra",  "Free"]
-    },
-    {
-        "title": "Geometria B",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "18/09/24",
-        "text": "Appunti del corso di Geometria B tenuto dai proff. R. Ghiloni e A. Perotti, disponibili su richiesta.",
-        "link": "src/geometria-B.pdf",
-        "free": "false",
-        "local": "true",
-        "year": 1,
-        "tags": ["Geometry", "Topology", "Analysis"]
-    },
-    {
-        "title": " Analisi Mat. B",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "10/03/25",
-        "text": "Versione completata con le dimostrazioni delle note del corso di Analisi Matematica B fornite dal prof. S. Delladio, disponibili su richiesta.",
-        "link": "src/analisi-B.pdf",
-        "free": "false",
-        "local": "true",
-        "year": 1,
-        "tags": ["Analysis"]
-    },
-    {
-        "title": "Fondamenti di Fisica Matematica",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "18/09/24",
-        "text": "Riassunto delle note del corso di Fondamenti di Fisica Matematica (mod 1) tenuto nell'a.a. 2023-24 dal prof. V. Moretti, disponibili su richiesta.",
-        "link": "src/ffm1.pdf",
-        "free": "false",
-        "local": "true",
-        "year": 1,
-        "tags": ["Physics"]
-    },
-    {
-        "title": "Formulario di Analisi Numerica I",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "27/01/24",
-        "text": "Formulario per l'esame di Analisi Numerica I. Potrebbe contenere qualche errore, se ne trovate segnalatemeli che correggo al più presto.",
-        "link": "src/Formulario%20numerica.pdf",
-        "free": "true",
-        "local": "true",
-        "year": 1,
-        "tags": ["Numerical Analysis",  "Free"]
-    },
-    {
-        "title": "The Cayley–Dickson construction",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "04/12/24",
-        "text": "Project fot the Third Year of the Excellence Programme in the Bachelor’s Degree in Mathematics.",
-        "link": "src/cayley-dickson.pdf",
-        "free": "true",
-        "local": "true",
-        "year": 3,
-        "tags": ["Algebra", "PEM", "Free"]
-    },
-    {
-        "title": "Algebra Commutativa",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "21/01/25",
-        "text": "Note del corso di Algebra Commutativa, tenuto nell' a.a. 2024/25 dal prof. E. Ballico, disponibili su richiesta.",
-        "link": "src/disalgcomm.pdf",
-        "free": "false",
-        "local": "true",
+        "title": "Algebra A",
+        "teacher": "Willem A. De Graaf",
+        "link": "https://github.com/biblioteca-alessandria/Algebra-A",
         "year": 1,
         "tags": ["Algebra"]
     },
     {
-        "title": "Tesi",
-        "teacher": "Luis Eduardo Solá Conde",
-        "date": "21/07/25",
-        "text": "Elaborato per la Prova Finale del Corso di Laurea in Matematica. \n Introduzione alla teoria dei Gruppi Algebrici e alle Varietà Razionali Omogenee, con un focus sulle mappe di nesting. La presentazine è disponibile <a href='src/beamertesi.pdf'>qui</a>.",
-        "link": "src/tesi.pdf",
-        "free": "true",
-        "local": "true",
+        "title": "Algebra B",
+        "teacher": "Willem A. De Graaf",
+        "link": "https://github.com/biblioteca-alessandria/Algebra-B",
+        "year": 1,
+        "tags": ["Algebra"]
+    },
+    {
+        "title": "Algebra Commutativa",
+        "teacher": "Edoardo Ballico",
+        "link": "https://github.com/biblioteca-alessandria/Algebra-Commutativa",
         "year": 3,
-        "tags": ["Algebra",  "Geometry", "Free"]
+        "tags": ["Algebra"]
+    },
+    {
+        "title": "Analisi Matematica A",
+        "teacher": "Anneliese Defranceschi",
+        "link": "https://github.com/biblioteca-alessandria/Analisi-Matematica-A",
+        "year": 1,
+        "tags": ["Analisi"]
+    },
+    {
+        "title": "Analisi Matematica B",
+        "teacher": "Silvano Delladio",
+        "link": "https://github.com/biblioteca-alessandria/Analisi-Matematica-B",
+        "year": 2,
+        "tags": ["Analisi"]
+    },
+    {
+        "title": "Analisi Numerica",
+        "teacher": "Ana Alonso Rodriguez, Paola Zanolli, Lucas Omar Müller",
+        "link": "https://github.com/biblioteca-alessandria/Analisi-Numerica",
+        "year": 2,
+        "tags": ["Analisi Numerica"]
+    },
+    {
+        "title": "Calcolatori",
+        "teacher": "",
+        "link": "https://github.com/biblioteca-alessandria/Calcolatori",
+        "year": 3,
+        "tags": ["Giovanni Iacca"]
+    },
+    {
+        "title": "Calcolo delle Probabilità e Statistica Matematica",
+        "teacher": "Luigi Amedeo Bianchi, Stefano Bonaccorsi",
+        "link": "https://github.com/biblioteca-alessandria/Calcolo-delle-Probabilita-e-Statistica-Matematica",
+        "year": 2,
+        "tags": ["Probabilità", "Statistica"]
+    },
+    {
+        "title": "Calcolo delle Variazioni",
+        "teacher": "Marco Bonacini, Andrea Pinamonti",
+        "link": "https://github.com/biblioteca-alessandria/Calcolo-delle-Variazioni",
+        "year": 3,
+        "tags": ["Analisi"]
+    },
+    {
+        "title": "Chimica",
+        "teacher": "??",
+        "link": "https://github.com/biblioteca-alessandria/Chimica",
+        "year": 3,
+        "tags": ["Chimica"]
+    },
+    {
+        "title": "Database",
+        "teacher": "??",
+        "link": "https://github.com/biblioteca-alessandria/Database",
+        "year": 3,
+        "tags": ["Informatica"]
     }
 ]
