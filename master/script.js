@@ -11,11 +11,11 @@ function getAllParameters(key){
 
 node =  document.getElementById('cardsContainer');
 tagslistnode = document.getElementById('tagsContainer');
-yearslistnode = document.getElementById('yearsContainer');
+//yearslistnode = document.getElementById('yearsContainer');
 currentTags=getAllParameters("tag")
 allTags =[]
-getYear=getAllParameters("year")
-selectedYear = getYear.length>0?getYear[0]:0
+//getYear=getAllParameters("year")
+//selectedYear = getYear.length>0?getYear[0]:0
 
 function loadNotes(notes){
     for ([index, note] of notes.entries()){
@@ -38,8 +38,6 @@ function loadNotes(notes){
                             <div class="p-2">    
                             ${note.teacher}
                             </div>
-                            <div class="badge bg-gradient-primary-to-secondary text-white" style = "cursor: pointer" onclick="selectYear(${note.year})"><div class="text-uppercase">Anno ${note.year}</div></div>
-                            </div>
                         <p class="p-2" style="margin-bottom: 0rem; !important">
                             ${string}
                         </p>
@@ -47,9 +45,6 @@ function loadNotes(notes){
                 </div>
             </div>`
         flag = true;
-        if (note.year != selectedYear && selectedYear != 0){
-            flag = false;
-        }
         for(tag of currentTags){
             if(!note.tags.includes(tag)){
                 flag = false;
@@ -66,18 +61,6 @@ function loadNotes(notes){
         }
     }
     // <button class="btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder activeTag" onclick="addTag('prova');">#prova</buttonm>
-    for(year of [1,2,3]){
-        var btn = document.createElement('button');
-        if(parseInt(selectedYear) == parseInt(year)){
-            btn.setAttribute('class', 'btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder activeTag');
-            btn.setAttribute('onclick', 'selectYear(0)');
-        }else{
-            btn.setAttribute('class', 'btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder tag');
-            btn.setAttribute('onclick', 'selectYear('+year+')');
-        }
-        btn.innerHTML="Anno "+year;
-        yearslistnode.appendChild(btn);
-    }
     for(tag of currentTags){
         var btn = document.createElement('button');
         btn.setAttribute('class', 'btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder activeTag');
@@ -176,13 +159,13 @@ function selectYear(num){
 
 function goToTags(){
     string="?";
-    if(selectedYear!=0){
-        string+="year="+selectedYear
-    }
+    //if(selectedYear!=0){
+    //    string+="year="+selectedYear
+    //}
     for([index,tag] of currentTags.entries()){
-        if(index != 0 || selectedYear!=0){
-            string += "&";
-        }
+        //if(index != 0 || selectedYear!=0){
+        //    string += "&";
+        //}
         string += "tag=";
         string += tag;
     }
