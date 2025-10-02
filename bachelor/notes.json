@@ -185,14 +185,14 @@
         "title": "Programmazione 2",
         "teacher": "?",
         "link": "https://github.com/biblioteca-alessandria/Programmazione-2",
-        "year": 0,
+        "year": 3,
         "tags": ["Informatica"]
     },
     {
         "title": "Programmazione Funzionale",
         "teacher": "?",
         "link": "https://github.com/biblioteca-alessandria/Programmazione-Funzionale",
-        "year": 0,
+        "year": 3,
         "tags": ["Informatica"]
     },
     {
@@ -217,7 +217,7 @@
         "tags": ["Algebra"]
     },
     {
-        "title": "Teoria-dei-Gruppi",
+        "title": "Teoria dei Gruppi",
         "teacher": "Mima Stanojkovski, Andrea Caranti",
         "link": "https://github.com/biblioteca-alessandria/Teoria-dei-Gruppi",
         "year": 3,
