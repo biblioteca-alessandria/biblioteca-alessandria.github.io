@@ -138,5 +138,96 @@
         "link": "https://github.com/biblioteca-alessandria/Geologia",
         "year": 3,
         "tags": ["Geologia"]
+    },
+    {
+        "title": "Geometria A",
+        "teacher": "Luis E. Sola Conde, Marco Andreatta, Gianluca Occhetta",
+        "link": "https://github.com/biblioteca-alessandria/Geometria-A",
+        "year": 1,
+        "tags": ["Geometria"]
+    },
+    {
+        "title": "Geometria B",
+        "teacher": "Riccardo Ghiloni, Alessandro Perotti",
+        "link": "https://github.com/biblioteca-alessandria/Geometria-B",
+        "year": 2,
+        "tags": ["Geometria"]
+    },
+    {
+        "title": "Geometria Differenziale",
+        "teacher": "Alessandro Perotti",
+        "link": "https://github.com/biblioteca-alessandria/Geometria-Differenziale",
+        "year": 3,
+        "tags": ["Geometria"]
+    },
+    {
+        "title": "Introduzione all'Economia",
+        "teacher": "?",
+        "link": "https://github.com/biblioteca-alessandria/Introduzione-all-Economia",
+        "year": 3,
+        "tags": ["Economia"]
+    },
+    {
+        "title": "Laboratorio di Programmazione",
+        "teacher": "Silvio Ranise, ?",
+        "link": "https://github.com/biblioteca-alessandria/Laboratorio-di-Programmazione",
+        "year": 1,
+        "tags": ["Informatica"]
+    },
+    {
+        "title": "Probabilità 2",
+        "teacher": "?",
+        "link": "https://github.com/biblioteca-alessandria/Probabilita-2",
+        "year": 3,
+        "tags": ["Probabilità"]
+    },
+    {
+        "title": "Programmazione 2",
+        "teacher": "?",
+        "link": "https://github.com/biblioteca-alessandria/Programmazione-2",
+        "year": 0,
+        "tags": ["Informatica"]
+    },
+    {
+        "title": "Programmazione Funzionale",
+        "teacher": "?",
+        "link": "https://github.com/biblioteca-alessandria/Programmazione-Funzionale",
+        "year": 0,
+        "tags": ["Informatica"]
+    },
+    {
+        "title": "Seminario LaTeX",
+        "teacher": "Roberto Zunino",
+        "link": "https://github.com/biblioteca-alessandria/Seminario-LaTeX",
+        "year": 2,
+        "tags": ["Informatica"]
+    },
+    {
+        "title": "Statistica Matematica",
+        "teacher": "?",
+        "link": "https://github.com/biblioteca-alessandria/Statistica-Matematica",
+        "year": 3,
+        "tags": ["Statistica"]
+    },
+    {
+        "title": "Teoria Algebrica dei Numeri",
+        "teacher": "Nadir Murru, Alessandra Bernardi",
+        "link": "https://github.com/biblioteca-alessandria/Teoria-Algebrica-dei-Numeri",
+        "year": 3,
+        "tags": ["Algebra"]
+    },
+    {
+        "title": "Teoria-dei-Gruppi",
+        "teacher": "Mima Stanojkovski, Andrea Caranti",
+        "link": "https://github.com/biblioteca-alessandria/Teoria-dei-Gruppi",
+        "year": 3,
+        "tags": ["Algebra"]
+    },
+    {
+        "title": "Teoria di Galois",
+        "teacher": "Willem A. De Graaf",
+        "link": "https://github.com/biblioteca-alessandria/Teoria-di-Galois",
+        "year": 3,
+        "tags": ["Algebra"]
     }
 ]
